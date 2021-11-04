@@ -1,2 +1,5 @@
-# aina-lets-learn-python
-Resources for online workshop, _Advancing into Analytics: Let's Learn Python_
+#  _Advancing into Analytics_: Let's Learn Python
+
+Resources for the online workshop.
+
+![Cover](images/learn-python-cover.png)
